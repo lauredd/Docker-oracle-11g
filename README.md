@@ -3,7 +3,7 @@ Image for running Oracle Database 11g Standard/Enterprise. Due to oracle license
 ``This image for development use only``
 
 # Usage
-1. Simple build : https://github.com/lauredd/Docker-oracle-11g.git
+1. Simple build : docker build https://github.com/lauredd/Docker-oracle-11g.git
 
 2. Download database installation files from [Oracle site](http://www.oracle.com/technetwork/database/in-memory/downloads/index.html) and unpack them to **install_folder**.
 3. Run container and it will install oracle and create database:

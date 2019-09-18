@@ -1,6 +1,6 @@
 FROM centos:7.6.1810
 MAINTAINER lauredd
-LABEL Remarks=”OracleDB 11g as a docker container”
+LABEL Remarks="OracleDB 11g as a docker container"
 
 ADD assets /assets
 

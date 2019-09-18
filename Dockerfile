@@ -1,4 +1,4 @@
-FROM centos:7.6.1810
+FROM centos:7
 MAINTAINER lauredd
 LABEL Remarks="OracleDB 11g as a docker container"
 
